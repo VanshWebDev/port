@@ -1,0 +1,51 @@
+[
+	{
+		"project": "Nonys",
+		"url": "https://github.com/VanshWebDev/mychatapp",
+		"repo": "Private",
+		"descriptionTitle": "A real-time chat application",
+		"description": "with Google authentication to save chats",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "bootstrap",	"name": "bootstrap", 	"type": "devicon" },
+			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "w", 	        "name": "websocket", 	"type": "fas"     },
+			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" }
+		]
+	},
+	{
+		"project": "Wanderlust",
+		"url": "https://github.com/atlamors/portfolio",
+		"repo": "Public",
+		"descriptionTitle": "An online marketplace",
+		"description": "that connects people who want to rent out their property.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "e", 		"name": "EJS", 		        "type": "fas" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "bootstrap",	"name": "Bootstrap", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]

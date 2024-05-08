@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const Profession = Software Developer;",
+		"end": "const name = Vansh kumar;",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Vansh kumar.",
+		"usp": "I design and build meaningful experiences."
+	},
+
+	"paragraph": "A passionate software developer, combines technical expertise with innovative problem-solving to deliver robust solutions that exceed expectations.",
+
+	"buttons": {
+		"primary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/vansh-kumar-webdev/",
+			"leaveSite": "true"
+		},
+		"tertiary": {
+            "title": "Resume",
+            "url": "https://www.dropbox.com/scl/fi/23zjfe34fday9ttmeubux/vanshResume.pdf?rlkey=8q9f7vz81dlqjpa9q2p8lfwgh&st=3hqhdzy4&dl=0",
+            "leaveSite": "true"
+        }
+	}
+}
