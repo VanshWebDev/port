@@ -76,16 +76,16 @@ export default function Hero() {
         </section>
         <section>
           <button
-            className={`button ${button.primary} leaveSite`}
+            className={`button ${button.primary}`}
             onClick={() => window.open(content.buttons.primary.url, "_blank")}
           >
-            {content.buttons.primary.title}
+            {content.buttons.primary.title} <i class="fa-solid fa-location-arrow"></i>
           </button>
             {/* <button  className={`button ${button.secondary} leaveSite`}
             onClick={()=>window.open(content.buttons.tertiary.url, "_black")}
             >{content.buttons.tertiary.title}</button> */}
-           <a href="/img/resume.pdf" target="_blank"> <button  className={`button ${button.secondary} leaveSite`}
-            >{content.buttons.tertiary.title}</button></a>
+           <a href="/img/resume.pdf" target="_blank"> <button  className={`button ${button.secondary}`}
+            >{content.buttons.tertiary.title} <i class="fa-solid fa-location-arrow"></i></button></a>
         </section>
       </Container>
       <HeroBg theme="bg-color-1" />
