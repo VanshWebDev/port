@@ -36,7 +36,7 @@ export default function Technical() {
 					<div className={about.copy}>
 						<CopyBlock 
 							title="Javascript"
-							icon={[ 'fat', 'chart-network' ]}
+							icon={[ 'fas', ' fa-brands fa-js js' ]}
 							copy="With a strong foundation in both front-end and back-end development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
 							iconClass={about.icon}
 							containerClass={about.container}
@@ -47,7 +47,7 @@ export default function Technical() {
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
-							icon="grid-2-plus"
+							icon="grid-2-plus fa-brands fa-uncharted"
 							containerClass={about.container}
 							headerIcon={about.icon} 
 						/>
@@ -77,7 +77,7 @@ const software = [
 	{ key: 'github', 	    name: 'Github', 		    type: 'devicon' },
 	{ key: 'figma', 		name: 'Figma', 				type: 'devicon' },
 	{ key: 'vscode', 		name: 'VSCode', 			type: 'devicon' },
-	{ key: 'mailbox', 		name: 'Postman', 			type: 'fas' },
+	{ key: 'envelope-open-text', name: 'Postman', 			type: 'fas' },
 	{ key: 'l',	            name: 'Lunacy', 			type: 'fas' },
 	// { key: 'aftereffects',	name: 'After Effects', 		type: 'devicon' },
 	// { key: 'premierepro',	name: 'Premiere Pro', 		type: 'devicon' },
@@ -88,7 +88,7 @@ const tech	= [
 	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
-	{ key: "c",		        name: "Chatgpt", 			type: "devicon" },
+	{ key: "c",		        name: "Chatgpt", 			type: "fas" },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
 	{ key: 'css3', 			name: 'CSS3', 				type: 'devicon' },
 	{ key: 'e', 	        name: 'Express', 			type: 'fas' },

@@ -65,10 +65,10 @@ export default function About() {
 }
 
 const methods 	= [
-	{ key: 'planet-moon', 		name: 'User Research', 		type: 'fad' },
+	{ key: 'earth-americas', 		name: 'User Research', 		type: 'fas' },
 	{ key: 'qrcode', 			name: 'Digital Strategy', 	type: 'fad' },
-	{ key: 'window', 			name: 'UI Design', 	        type: 'fad' },
-	{ key: 'cubes', 			name: 'Product Strategy', 	type: 'far' },
+	{ key: 'cube', 			name: 'UI Design', 	        type: 'fad' },
+	{ key: 'newspaper', 			name: 'Product Strategy', 	type: 'far' },
 	// { key: 'layer-plus', 		name: 'Brand Strategy', 	type: 'fad' },
 	// { key: 'solar-system', 		name: 'Operations', 		type: 'fad' },
 ]
