@@ -5,10 +5,15 @@
 			"link": "/img/certificate.pdf",
 			"note": "Delta 3.0."
 		},
-		{ 
+		{
 			"person": "LeetCode",
 			"link": "https://leetcode.com/u/DevVanshKumar/",
 			"note": "Checkout our leetcode profile."
+		},
+		{
+			"person": "HackerRank",
+			"link": "https://www.hackerrank.com/devloper.mind_",
+            "note": "Checkout hackerrank profile & certificate."
 		}
 	],
 
@@ -32,6 +37,10 @@
 		{
 			"url": "https://instagram.com/devloper.mind_",
 			"icon": "instagram"
+		},
+		{
+			"url": "https://www.hackerrank.com/profile/vanshvanshkumar1",
+            "icon": "hackerrank"
 		}
 	]
 }
