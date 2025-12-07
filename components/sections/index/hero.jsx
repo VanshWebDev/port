@@ -84,7 +84,7 @@ export default function Hero() {
             {/* <button  className={`button ${button.secondary} leaveSite`}
             onClick={()=>window.open(content.buttons.tertiary.url, "_black")}
             >{content.buttons.tertiary.title}</button> */}
-           <a href="/img/resume.pdf" target="_blank"> <button  className={`button ${button.secondary}`}
+           <a href="/img/vansh kumar resume.pdf" target="_blank"> <button  className={`button ${button.secondary}`}
             >{content.buttons.tertiary.title} <i class="fa-solid fa-location-arrow"></i></button></a>
         </section>
       </Container>
