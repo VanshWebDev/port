@@ -1,7 +1,8 @@
 {
 	"intro": {
-		"start": "const Profession = Software Developer;",
-		"end": "const name = Vansh kumar;",
+		"start": "const name = Vansh kumar;",
+		"mid": "const Profession = Software Developer;",
+		"end": "const hobby = Content creator;",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",

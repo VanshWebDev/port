@@ -48,6 +48,14 @@ export default function Hero() {
             () => {
               setTypingStatus("deleting");
             },
+            content.intro.mid,
+            ()=>{
+              setTypingStatus("typed");
+            },
+            content.intro.deleteDelay,
+            () => {
+              setTypingStatus("deleting");
+            },
             content.intro.end,
             () => {
               setTypingStatus("deleted");

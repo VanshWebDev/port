@@ -1,35 +1,41 @@
 [
 	{
-		"project": "Nonys",
-		"url": "https://github.com/VanshWebDev/mychatapp",
+		"project": "VARSNA",
+		"url": "https://github.com/VanshWebDev/varsna",
 		"repo": "Private",
-		"descriptionTitle": "A real-time chat application",
-		"description": "with Google authentication to save chats",
+		"descriptionTitle": "Fully featured e-commerce platform",
+		"description": "with all the features from auth to payment integration",
+		"projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
+		"liveLink": "https://varsna.netlify.app/",
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
 			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
 		],
 		"stack": [
+			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "bootstrap",	"name": "bootstrap", 	"type": "devicon" },
-			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+			{ "key": "e",	        "name": "express", 	    "type": "fas" },
+			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
+			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
+			{ "key": "dollar-sign",	"name": "razorpay", 	 "type": "fas" },
+			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "w", 	        "name": "websocket", 	"type": "fas"     },
+
 			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
 			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" }
 		]
 	},
 	{
-		"project": "Wanderlust",
+		"project": "AirClip",
 		"url": "https://github.com/atlamors/portfolio",
 		"repo": "Public",
-		"descriptionTitle": "An online marketplace",
-		"description": "that connects people who want to rent out their property.",
+		"descriptionTitle": "Synchronized clipboard,",
+		"description": "platform allowing multiple users to join custom rooms and share copied text in realtime.",
+		"projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
@@ -37,15 +43,52 @@
 			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
 		],
 		"stack": [
-			{ "key": "e", 		"name": "EJS", 		        "type": "fas" },
-			{ "key": "react", 		"name": "React", 		"type": "devicon" },
-			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+
+
+
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "bootstrap",	"name": "Bootstrap", 	"type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+			{ "key": "e",	        "name": "express", 	    "type": "fas" },
+			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
+			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
+			{ "key": "dollar-sign",	"name": "razorpay", 	"type": "fas" },
+			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" },
+			{ "key": "websocket",	"name": "Websocket", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "GatePass",
+		"url": "https://github.com/atlamors/portfolio",
+		"repo": "Public",
+		"descriptionTitle": "Get gatepass instantly",
+		"description": "platform allowing student and working professional to get gatepass instantly",
+		"projectPaper": "https://github.com/VanshWebDev/GP/blob/main/Gp%20Project%20Readme.pdf",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "e",	        "name": "express", 	    "type": "fas" },
+			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
+			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
+			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" },
+			{ "key": "websocket",	"name": "Websocket", 	"type": "devicon" }
 		]
 	}
 ]
