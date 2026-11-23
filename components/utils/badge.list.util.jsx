@@ -92,6 +92,8 @@ function IconModule({ iconKey, iconType, color }) {
 			return ( <Icon icon={[ iconType, iconKey ]} /> )
 		case 'devicon':
 			return ( <i className={`devicon-${iconKey}-plain ${colored}`} /> )
+		case 'IoT':
+			return ( <i class="devicon-embeddedc-plain"></i> )
 		default:
 			return ( '' )
 	}

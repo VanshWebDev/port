@@ -1,94 +1,165 @@
 [
-	{
-		"project": "VARSNA",
-		"url": "https://github.com/VanshWebDev/varsna",
-		"repo": "Private",
-		"descriptionTitle": "Fully featured e-commerce platform",
-		"description": "with all the features from auth to payment integration",
-		"projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
-		"liveLink": "https://varsna.netlify.app/",
-		"imageOptions": [
-		],
-		"images": [
-			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
-		],
-		"stack": [
-			{ "key": "react",       "name": "React js", 	"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "e",	        "name": "express", 	    "type": "fas" },
-			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
-			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
-			{ "key": "dollar-sign",	"name": "razorpay", 	 "type": "fas" },
-			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+  {
+    "project": "TBLS (Track Based Lubricator System)",
+    "descriptionTitle": "IoT Device Monitoring & Control Platform",
+    "description": "being used by Indian Railway",
+    "projectPaper": "DONT",
+    "liveLink": "",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "javascript", "name": "Raspberry Pi", "type": "IoT" },
+      { "key": "numpy", "name": "Python", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
 
-			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" }
-		]
-	},
-	{
-		"project": "AirClip",
-		"url": "https://github.com/atlamors/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "Synchronized clipboard,",
-		"description": "platform allowing multiple users to join custom rooms and share copied text in realtime.",
-		"projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
-		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
-		],
-		"stack": [
-			{ "key": "react",       "name": "React js", 	"type": "devicon" },
+      { "key": "react", "name": "React.js", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "express", "name": "Express.js", "type": "devicon" },
+      { "key": "postgresql", "name": "PostgreSQL", "type": "devicon" },
+      { "key": "redux", "name": "Redux Toolkit", "type": "devicon" },
 
+      { "key": "mqtt", "name": "MQTT", "type": "IoT" },
+      { "key": "aws", "name": "AWS EC2", "type": "IoT" },
+      { "key": "raspberrypi", "name": "Raspberry Pi Pico", "type": "IoT" },
+      { "key": "a7670", "name": "A7670 4G Modem", "type": "IoT" },
+      { "key": "ina226", "name": "INA226 Module", "type": "IoT" },
+      { "key": "flowsensor", "name": "Flow Sensor", "type": "IoT" }
+    ]
+  },
+  {
+    "project": "RPMD (Rail Profile Measuring Device)",
+    "descriptionTitle": "Device to measure the profile of rail with millimetre accuracy",
+    "description": "being used by Indian Railway",
+    "projectPaper": "DONT",
+    "liveLink": "",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "embeddedc", "name": "Encoders", "type": "IoT" },
+      { "key": "javascript", "name": "raspberry pi B+", "type": "IoT" },
+      { "key": "numpy", "name": "Python", "type": "devicon" },
+      { "key": "html5", "name": "EMA filter", "type": "IoT" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "VARSNA",
+    "url": "https://github.com/VanshWebDev/varsna",
+    "repo": "Private",
+    "descriptionTitle": "Fully featured e-commerce platform",
+    "description": "with all the features from auth to payment integration",
+    "projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
+    "liveLink": "https://varsna.netlify.app/",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React js", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "e", "name": "express", "type": "fas" },
+      { "key": "redux", "name": "redux", "type": "devicon" },
+      { "key": "j", "name": "jwt", "type": "fas" },
+      { "key": "dollar-sign", "name": "razorpay", "type": "fas" },
+      { "key": "mongodb", "name": "mongodb", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
 
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "AirClip",
+    "url": "https://github.com/atlamors/portfolio",
+    "repo": "Public",
+    "descriptionTitle": "Synchronized clipboard,",
+    "description": "platform allowing multiple users to join custom rooms and share copied text in realtime.",
+    "projectPaper": "https://github.com/VanshWebDev/AirClip/blob/main/AirClip%20Readme.pdf",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/portfolio-mock_single.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React js", "type": "devicon" },
 
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "e",	        "name": "express", 	    "type": "fas" },
-			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
-			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
-			{ "key": "dollar-sign",	"name": "razorpay", 	"type": "fas" },
-			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" },
-			{ "key": "websocket",	"name": "Websocket", 	"type": "devicon" }
-		]
-	},
-	{
-		"project": "GatePass",
-		"url": "https://github.com/atlamors/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "Get gatepass instantly",
-		"description": "platform allowing student and working professional to get gatepass instantly",
-		"projectPaper": "https://github.com/VanshWebDev/GP/blob/main/Gp%20Project%20Readme.pdf",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
-		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
-		],
-		"stack": [
-			{ "key": "react",       "name": "React js", 	"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "e",	        "name": "express", 	    "type": "fas" },
-			{ "key": "redux",	    "name": "redux", 	    "type": "devicon" },
-			{ "key": "j",	        "name": "jwt", 	        "type": "fas" },
-			{ "key": "mongodb",	    "name": "mongodb", 	    "type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "nodejs",		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb",		"name": "MongoDB", 	    "type": "devicon" },
-			{ "key": "websocket",	"name": "Websocket", 	"type": "devicon" }
-		]
-	}
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "e", "name": "express", "type": "fas" },
+      { "key": "redux", "name": "redux", "type": "devicon" },
+      { "key": "j", "name": "jwt", "type": "fas" },
+      { "key": "dollar-sign", "name": "razorpay", "type": "fas" },
+      { "key": "mongodb", "name": "mongodb", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "websocket", "name": "Websocket", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "GatePass",
+    "url": "https://github.com/atlamors/portfolio",
+    "repo": "Public",
+    "descriptionTitle": "Get gatepass instantly",
+    "description": "platform allowing student and working professional to get gatepass instantly",
+    "projectPaper": "https://github.com/VanshWebDev/GP/blob/main/Gp%20Project%20Readme.pdf",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/portfolio-mock_single.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React js", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "e", "name": "express", "type": "fas" },
+      { "key": "redux", "name": "redux", "type": "devicon" },
+      { "key": "j", "name": "jwt", "type": "fas" },
+      { "key": "mongodb", "name": "mongodb", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "websocket", "name": "Websocket", "type": "devicon" }
+    ]
+  }
 ]

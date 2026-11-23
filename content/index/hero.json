@@ -1,8 +1,8 @@
 {
 	"intro": {
 		"start": "const name = Vansh kumar;",
-		"mid": "const Profession = Software Developer;",
-		"end": "const hobby = Content creator;",
+		"mid": "const Profession = Software & IoT Engineer;",
+		"end": "const hobby = Content creation;",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -16,7 +16,7 @@
 		"usp": "I design and build meaningful experiences."
 	},
 
-	"paragraph": "A passionate software developer, combines technical expertise with innovative problem-solving to deliver robust solutions that exceed expectations.",
+	"paragraph": "A passionate software & IoT engineer, combines technical expertise with innovative problem-solving to deliver robust solutions. I've built the products that are being used by indian railway.",
 
 	"buttons": {
 		"primary": {
@@ -26,6 +26,11 @@
 		},
 		"tertiary": {
             "title": "Resume",
+            "url": "https://www.dropbox.com/scl/fi/23zjfe34fday9ttmeubux/vanshResume.pdf?rlkey=8q9f7vz81dlqjpa9q2p8lfwgh&st=3hqhdzy4&dl=0",
+            "leaveSite": "true"
+        },
+		"content": {
+            "title": "Content",
             "url": "https://www.dropbox.com/scl/fi/23zjfe34fday9ttmeubux/vanshResume.pdf?rlkey=8q9f7vz81dlqjpa9q2p8lfwgh&st=3hqhdzy4&dl=0",
             "leaveSite": "true"
         }
