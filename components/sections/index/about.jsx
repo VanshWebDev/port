@@ -37,7 +37,7 @@ export default function About() {
             {/* <img src="/img/back.jpg" alt="Nelson family photo"/> */}
             {/* <video src="/img/video.mp4" autoPlay={true} loop={true} style={{borderRadius:'10px',}}></video> */}
             {/* <Image src="/img/back.jpg" layout='fill' alt='img'/> */}
-            <Image src="/img/back.jpg" alt="About Me" unoptimized />
+            <Image src="/img/back.jpg" alt="About Me" unoptimized layout="fill"/>
           </div>
           <div className={about.copy}>
             <CopyBlock
